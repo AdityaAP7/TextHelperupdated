@@ -1,4 +1,4 @@
-import './App.css';
+//okimport './App.css';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import About from './components/About';
@@ -12,7 +12,7 @@ import {
 //ok
 //ok
 //o//okk
-//o//okk//ok
+//o//okk//ok//ok
 //ok//ok//ok
 //ok
 //ok
