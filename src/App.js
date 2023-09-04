@@ -9,22 +9,6 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-//ok
-//ok
-//o//okk//ok
-//o//okk//ok//ok///ok/ok//ok
-//ok//ok//ok//o//okk//ok//ok
-//ok//ok
-//ok
-
-
-
-
-
-
-
-
-
 
 
 
