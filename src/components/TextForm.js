@@ -17,7 +17,7 @@ const handleLoClick = ()=>{
         let newText = text.toLowerCase();
         setText(newText)
         props.showAlert("Converted to lowercase!", "success");
-    }
+    
     const handleClearClick = ()=>{ 
         let newText = '';
         setText(newText);
