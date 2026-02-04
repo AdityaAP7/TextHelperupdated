@@ -21,7 +21,7 @@ const handleLoClick = ()=>{
         let newText = '';
         setText(newText);
         props.showAlert("Text Cleared!"
-    }
+    
 
     const handleOnChange = (event)=>{
         setText(event.target.value) 
