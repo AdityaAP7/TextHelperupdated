@@ -20,7 +20,7 @@ const handleLoClick = ()=>{
     const handleClearClick = ()=>{ 
         let newText = '';
         setText(newText);
-        props.
+        
 
     const handleOnChange = (event)=>{
         setText(event.target.value) 
