@@ -19,7 +19,7 @@ const handleLoClick = ()=>{
         props.showAlert("Converted to
     const handleClearClick = ()=>{ 
         let newText = '';
-        setText(newText);
+        setTex
         
 
     const handleOnChange = (event)=>{
